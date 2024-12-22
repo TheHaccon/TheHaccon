@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheHaccon
 - 👀 I’m interested in web developpment
-- 🌱 I’m currently learning in AEC as a Soutien technique informatique.
+- 🌱 I’m currently learning at the Univeristy of Québec in Outaouais. my programmis bachelor's in computer science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
